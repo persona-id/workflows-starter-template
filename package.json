@@ -52,5 +52,8 @@
 		"preview": "npm run build && vite preview",
 		"test": "vitest run"
 	},
-	"type": "module"
+	"type": "module",
+	"overrides": {
+		"brace-expansion": "^2.1.2"
+	}
 }
