@@ -54,6 +54,12 @@
 	},
 	"type": "module",
 	"overrides": {
-		"brace-expansion": "^2.1.2"
+		"brace-expansion": "^2.1.2",
+		"esbuild": "^0.28.2",
+		"postcss": "^8.5.26",
+		"sharp": "^0.35.3",
+		"js-yaml": "^4.3.1",
+		"ws": "^8.21.3",
+		"undici": "^7.29.0"
 	}
 }
